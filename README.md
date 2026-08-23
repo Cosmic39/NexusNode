@@ -811,7 +811,9 @@ When modifying NexusNode:
 
 # 📜 License
 
-Add the chosen project license here before publishing the repository.
+Input Forge is released under the **MIT License**.
+
+See [`LICENSE`](LICENSE) for details.
 
 ---
 
