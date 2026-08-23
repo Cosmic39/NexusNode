@@ -426,6 +426,10 @@ Close Arduino IDE Serial Monitor before starting the Python application so the C
 
 From the project root:
 
+### Step 8 — Press EN on the Board to reboot it 
+
+On the Board To reboot it and Wit 20 sec to let it auto connect.
+
 ```bash
 python app.py
 ```
