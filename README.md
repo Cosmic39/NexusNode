@@ -303,11 +303,9 @@ python --version
 ## 2. Clone the Repository
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/Cosmic39/NexusNode
 cd NexusNode
 ```
-
-Replace `<YOUR-REPOSITORY-URL>` with your GitHub repository URL.
 
 ---
 
