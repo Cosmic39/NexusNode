@@ -2,7 +2,7 @@
 
 > A modular ESP32-powered network appliance with a Python desktop control center.
 
-NexusNode combines an ESP32 network device with **NexuxNode Command Center**, a cyan-and-black desktop control application for configuring, monitoring, and operating the hardware.
+NexusNode combines an ESP32 network device with **NexuxNode Command Center**, a desktop control application for configuring, monitoring, and operating the hardware.
 
 The ESP32 performs the actual networking. The desktop application provides configuration, telemetry, connected-device monitoring, diagnostics, and command control.
 
