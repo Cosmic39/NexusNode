@@ -178,13 +178,13 @@ NexusNode/
 ├── app.py
 ├── README.md
 ├── requirements.txt
-├── project_code_document.md
 │
 ├── firmware/
 │   ├── nexuxnode1/
 │   │   └── nexuxnode1.ino
 │   │
-│   └── nexusnode2.ino
+│   └── nexusnode2/
+|        └──nexusnode2.ino
 │
 └── nexusnode/
     ├── __init__.py
